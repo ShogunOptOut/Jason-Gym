@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Jason Pumpa",
+        "alter": 42,
+        "email": "jaypee@jasongym.to",
+        "hobby": "Pumpen"
+    },
+    {
+        "name": "Musk El",
+        "alter": 52,
+        "email": "elmusk@mailoogle.to",
+        "hobby": "Tech"
+    },
+    {
+        "name": "Fred Frad",
+        "alter": 39,
+        "email": "bigmail@mailoogle.to",
+        "hobby": "Essen"
+    },
+    {
+        "name": "Dirty Dühni",
+        "alter": 46,
+        "email": "didi@mailoogle.to",
+        "hobby": "Windhunde"
+    },
+    {
+        "name": "Marv",
+        "alter": 36,
+        "email": "tt@tt.de",
+        "hobby": "Python, Lesen"
+    },
+    {
+        "name": "Hase",
+        "alter": 23,
+        "email": "h@h.de",
+        "hobby": "Karotten"
+    }
+]
