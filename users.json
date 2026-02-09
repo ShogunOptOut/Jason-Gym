@@ -34,5 +34,41 @@
         "alter": 23,
         "email": "h@h.de",
         "hobby": "Karotten"
+    },
+    {
+        "name": "Tammy",
+        "alter": 33,
+        "email": "t@t.de",
+        "hobby": "Hase küssen"
+    },
+    {
+        "name": "Ted",
+        "alter": 54,
+        "email": "t@t.h",
+        "hobby": "Solitär"
+    },
+    {
+        "name": "Fuchs",
+        "alter": 0,
+        "email": "f@f.f",
+        "hobby": "Hasen"
+    },
+    {
+        "name": "Reiner Noch",
+        "alter": 65,
+        "email": "r@n.rn",
+        "hobby": "Noch Einer"
+    },
+    {
+        "name": "Reiner",
+        "alter": 49,
+        "email": "rr@rrr.grr",
+        "hobby": "Tigern"
+    },
+    {
+        "name": "Marvyn",
+        "alter": 45,
+        "email": "fee.wwe",
+        "hobby": "Bauen"
     }
 ]

@@ -1,2 +1,4 @@
-from get_all_users import *                 # Funktionen aus anderer Datei im Ordner abrufen
-from get_all_users import get_all_users     # die professionellere Version, da spezifische Funktionen importiert werden
+# from get_all_users import *                 
+# Funktionen aus anderer Datei im Ordner abrufen
+# from get_all_users import get_all_users     
+# die professionellere Version, da spezifische Funktionen importiert werden
