@@ -19,7 +19,7 @@ def print_boxed(text):
 def menu():
     print_boxed(
         "\n Menü\n"
-        " Bitte Nummer wählen:"
+
         "\n 1 • Mitglieder Liste\n"
         " 2 • Mitglied hinzufügen\n"
         " 3 • Mitglied bearbeiten\n"
@@ -27,7 +27,7 @@ def menu():
         " 0 • Beenden\n"
     )
 
-    eingabe = int(input("➡ "))
+    eingabe = int(input("→ "))
 
     
     if eingabe == 1:                

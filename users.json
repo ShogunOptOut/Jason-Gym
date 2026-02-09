@@ -1,74 +1,68 @@
 [
-    {
-        "name": "Jason Pumpa",
-        "alter": 42,
-        "email": "jaypee@jasongym.to",
-        "hobby": "Pumpen"
-    },
-    {
-        "name": "Musk El",
-        "alter": 52,
-        "email": "elmusk@mailoogle.to",
-        "hobby": "Tech"
-    },
-    {
-        "name": "Fred Frad",
-        "alter": 39,
-        "email": "bigmail@mailoogle.to",
-        "hobby": "Essen"
-    },
-    {
-        "name": "Dirty Dühni",
-        "alter": 46,
-        "email": "didi@mailoogle.to",
-        "hobby": "Windhunde"
-    },
-    {
-        "name": "Marv",
-        "alter": 36,
-        "email": "tt@tt.de",
-        "hobby": "Python, Lesen"
-    },
-    {
-        "name": "Hase",
-        "alter": 23,
-        "email": "h@h.de",
-        "hobby": "Karotten"
-    },
-    {
-        "name": "Tammy",
-        "alter": 33,
-        "email": "t@t.de",
-        "hobby": "Hase küssen"
-    },
-    {
-        "name": "Ted",
-        "alter": 54,
-        "email": "t@t.h",
-        "hobby": "Solitär"
-    },
-    {
-        "name": "Fuchs",
-        "alter": 0,
-        "email": "f@f.f",
-        "hobby": "Hasen"
-    },
-    {
-        "name": "Reiner Noch",
-        "alter": 65,
-        "email": "r@n.rn",
-        "hobby": "Noch Einer"
-    },
-    {
-        "name": "Reiner",
-        "alter": 49,
-        "email": "rr@rrr.grr",
-        "hobby": "Tigern"
-    },
-    {
-        "name": "Marvyn",
-        "alter": 45,
-        "email": "fee.wwe",
-        "hobby": "Bauen"
-    }
+  {
+    "name": "Jason Pumpa",
+    "alter": 42,
+    "email": "jaypee@jasongym.to",
+    "hobby": "Pumpen"
+  },
+  {
+    "name": "Musk El",
+    "alter": 52,
+    "email": "elmusk@mailoogle.to",
+    "hobby": "Tech"
+  },
+  {
+    "name": "Fred Frad",
+    "alter": 39,
+    "email": "bigmail@mailoogle.to",
+    "hobby": "Essen"
+  },
+  {
+    "name": "Dirty Dühni",
+    "alter": 46,
+    "email": "didi@mailoogle.to",
+    "hobby": "Windhunde"
+  },
+  {
+    "name": "Marvmellow",
+    "alter": 44,
+    "email": "vvv",
+    "hobby": "pizza mix"
+  },
+  {
+    "name": "Hase",
+    "alter": 23,
+    "email": "h@h.de",
+    "hobby": "Karotten"
+  },
+  {
+    "name": "Tammy",
+    "alter": 33,
+    "email": "t@t.de",
+    "hobby": "Hase küssen"
+  },
+  {
+    "name": "Ted",
+    "alter": 54,
+    "email": "t@t.h",
+    "hobby": "Solitär"
+  },
+  {
+    "name": "Fuchs",
+    "alter": 0,
+    "email": "f@f.f",
+    "hobby": "Hasen"
+  },
+  {
+    "name": "Reiner",
+    "alter": 49,
+    "email": "rr@rrr.grr",
+    "hobby": "Tigern"
+  },
+  {
+    "name": "Berta",
+    "alter": 88,
+    "email": "BB@28.ds",
+    "hobby": "Chirale Netzwerke"
+  }
 ]
