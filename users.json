@@ -64,5 +64,11 @@
     "alter": 88,
     "email": "BB@28.ds",
     "hobby": "Chirale Netzwerke"
+  },
+  {
+    "name": "Winny",
+    "alter": 54,
+    "email": "winny@knuddels.mtv",
+    "hobby": "Musikvideos"
   }
 ]

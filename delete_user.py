@@ -9,7 +9,7 @@ def delete_user():
     
     for index, person in enumerate(users):
         if name_delete == person["name"]:
-            sicherheitsfrage = input(f"""Lösche {person["name"]}? \n y / n """)
+            sicherheitsfrage = input(f"""Lösche {person["name"]}? \n y / n \n→ """)
             
             if sicherheitsfrage == "y":
                 users.pop(index)
