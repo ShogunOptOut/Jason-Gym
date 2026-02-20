@@ -70,5 +70,17 @@
     "alter": 54,
     "email": "winny@knuddels.mtv",
     "hobby": "Musikvideos"
+  },
+  {
+    "name": "Marv Mel",
+    "alter": 36,
+    "email": "mm@tt.de",
+    "hobby": "Coden, Coden"
+  },
+  {
+    "name": "Bill Gates",
+    "alter": 64,
+    "email": "billys@gates.cum",
+    "hobby": "Farming"
   }
 ]
